@@ -1,10 +1,10 @@
-# [Dummy Page](https://github.com/europanite/dummy_page "Dummy Page")
+# [Dummy Page](https://github.com/europanite/dummy-page "Dummy Page")
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-blue)
-[![CI](https://github.com/europanite/dummy_page/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/dummy_page/actions/workflows/ci.yml)
-[![docker](https://github.com/europanite/dummy_page/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/dummy_page/actions/workflows/docker.yml)
-[![GitHub Pages](https://github.com/europanite/dummy_page/actions/workflows/pages.yml/badge.svg)](https://github.com/europanite/dummy_page/actions/workflows/pages.yml)
+[![CI](https://github.com/europanite/dummy-page/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/dummy-page/actions/workflows/ci.yml)
+[![docker](https://github.com/europanite/dummy-page/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/dummy-page/actions/workflows/docker.yml)
+[![GitHub Pages](https://github.com/europanite/dummy-page/actions/workflows/pages.yml/badge.svg)](https://github.com/europanite/dummy-page/actions/workflows/pages.yml)
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -13,7 +13,7 @@
 
 !["web_ui"](./assets/images/web_ui.png)
 
-[PlayGround](https://europanite.github.io/dummy_page/)
+[PlayGround](https://europanite.github.io/dummy-page/)
 
 This Dummy Page can be used for anyone, anypurpose. 
 
