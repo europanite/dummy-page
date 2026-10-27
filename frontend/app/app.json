@@ -23,7 +23,7 @@
       "edgeToEdgeEnabled": true
     },
     "experiments": {
-      "baseUrl": "/dummy_page"
+      "baseUrl": "/dummy-page"
     },
     "web": {
       "favicon": "./assets/favicon.png",

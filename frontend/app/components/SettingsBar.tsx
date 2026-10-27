@@ -8,8 +8,8 @@ const CONTENT_MAX_W = 480;
 
 export default function SettingsBar() {
   const { width } = useWindowDimensions();
-  const REPO_URL      = "https://github.com/europanite/dummy_page";
-  const REPO_URL_PAGE = "https://europanite.github.io/dummy_page/";
+  const REPO_URL      = "https://github.com/europanite/dummy-page";
+  const REPO_URL_PAGE = "https://europanite.github.io/dummy-page/";
   
   return (
     <SafeAreaView edges={["top"]} style={{ backgroundColor: BAR_BG }}>
